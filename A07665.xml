@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short treatise of certayne thinges abused in the Popysh Church long vsed: but now abolyshed to our consolation and Gods word auaunced the light of our saluation.</title>
+            <author>Moone, Peter.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A07665</idno><idno type="EEBO-CITATION">99845644</idno>
+  <idno type="VID">10557</idno>
+  <idno type="EEBO-PROQUEST">2240904532</idno>
+  <idno type="STC">STC 18056</idno>
+  <idno type="STC">ESTC S110023</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845644e"/>
+            <note>(EEBO-TCP ; phase 2, no. A07665)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10557)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 137:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short treatise of certayne thinges abused in the Popysh Church long vsed: but now abolyshed to our consolation and Gods word auaunced the light of our saluation.</title>
+                  <author>Moone, Peter.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Wyllyam Copland,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1548?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Peter Moone.</note>
+                  <note>In verse.</note>
+                  <note>Printer's name from colophon; publication date conjectured by STC.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10557:1"/>
+            <pb facs="tcp:10557:1"/>
+            <lg type="title">
+               <l>¶A short treatise of certayne thinges abused</l>
+               <l>In the Popysh Church longe vsed:</l>
+               <l>But now abolyshed to our consolation</l>
+               <l>And Gods word auaunced the light of our saluation.</l>
+            </lg>
+            <q>
+               <bibl>Matthew .vii.</bibl>
+               <p>Euery tree that bringeth not forth good frute shalbe hewen downe &amp; cast into y<seg rend="sup">e</seg> fyre</p>
+            </q>
+            <q>
+               <bibl>Psalm .cxxiii.</bibl>
+               <p>Our soule is escaped euen as a byrd out of the snare of the foular, the snare is brokē and we are delyuered.</p>
+            </q>
+            <q>
+               <bibl>Mat .xv.</bibl>
+               <p>Al plantes y<seg rend="sup">t</seg> my heauenly father hathe not planted shal be plucked vp by the rotes</p>
+            </q>
+            <q>
+               <bibl>Psal. cxviii</bibl>
+               <p>It is tyme (O Lord) to laye to thyne hande for, they haue destroyed thy lawe.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:10557:2"/>
+            <pb facs="tcp:10557:2"/>
+            <head>Preserue me, O god, for in the do I truste. <bibl>Psalm .xv.</bibl>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">G</seg>Race whiche is the mercy fauor and acceptation.<note place="margin">Apoc. i.</note>
+               </l>
+               <l>Of God our heauenly father, be geuen to this audience</l>
+               <l>Peace, from Iesu Christ, our helth and satisfaction</l>
+               <l>Whiche is the true tranquilite, of a quiet conscience</l>
+               <l>Be ministred vnto you with a more relyced sentence</l>
+               <l>Than all tonges be able to make declaration</l>
+               <l>My intente is to declare, yf a whyle ye well kepe scilence</l>
+               <l>How goddes worde is florisshed, the light of our saluation</l>
+            </lg>
+            <lg>
+               <l>We haue bene drowned with dreames,<note place="margin">Ps. Cvi.</note> as out forefathers haue bene</l>
+               <l>Lyuing in wilful Ignorance, not searching for y<seg rend="sup">e</seg> verite</l>
+               <l>Beleuing to haue syght,<note place="margin">Eccl. xxi.</note> whan we haue not sene</l>
+               <l>But heapinge synne vpon synne, committing iniquite</l>
+               <l>For lacke of godly knowledge, brought into captiuite</l>
+               <l>So y<seg rend="sup">t</seg> y<seg rend="sup">e</seg> blind leade y<seg rend="sup">e</seg> blind as Christ maketh demonstratiō</l>
+               <l>And both fell in y<seg rend="sup">e</seg> lake,<note place="margin">Mat xv</note> of vtter darkenes of tenebre</l>
+               <l>But now gods word is florisshed, y<seg rend="sup">e</seg> light of our saluation.</l>
+            </lg>
+            <lg>
+               <l>The shepeheardes that should fede the flocke,<note place="margin">Eze. xxxiiii</note> as Ezechiell doth say</l>
+               <l>And hath famysshed them for fode, wo vnto them all</l>
+               <l>That thus suffereth y<seg rend="sup">e</seg> shepe to perisshe going astray</l>
+               <l>From y<seg rend="sup">e</seg> handes of suche blind guydes y<seg rend="sup">e</seg> lord doth vs call</l>
+               <l>The sicke haue they not healed y<seg rend="sup">e</seg> weake haue they let fall</l>
+               <l>But churlishly and cruellye, be they had in estimation</l>
+               <pb facs="tcp:10557:3"/>
+               <l>
+                  <note place="margin">viii.</note>Come away good people from their doctrine o<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oucan</l>
+               <l>For now goddes word is florisshed y<seg rend="sup">e</seg> light of our saluatiō</l>
+            </lg>
+            <lg>
+               <l>A gret colour of holines in y<seg rend="sup">e</seg> Popes church hath ben vsed</l>
+               <l>The which is playne wickednes, as goddes word proueth ryghte</l>
+               <l>
+                  <note place="margin">iiii.xc.xvii.</note>To mainteyn the old customes, of most men now refused</l>
+               <l>The verite cleane banisshed, and truth put to flight</l>
+               <l>Yf god had not ben mercyfull, all men had lost the lyght</l>
+               <l>Blynde was the cerymony, for all the sainctification</l>
+               <l>But now it is euydent, to euery chrysten wyght</l>
+               <l>How goddes word is florysshed, the light of our saluation</l>
+            </lg>
+            <lg>
+               <l>In y<seg rend="sup">e</seg> stede of goddes word we had holy bread and water</l>
+               <l>Holy palmes holy asshes, holy candles holy fyer</l>
+               <l>Holy bones holy stones, holy crewittes at the aulter</l>
+               <l>Holy censars holy bannars, holy crosses holy atyet</l>
+               <l>Holy wax holy pax, holy smoke holy smyer</l>
+               <l>Holy oyle holy creame, holy wyne for veneration</l>
+               <l>Holy coope holy canepy holy reliques in the quiet</l>
+               <l>Thus gods word could not florissh y<seg rend="sup">e</seg> light of our saluatiō</l>
+            </lg>
+            <lg>
+               <l>We haue had belles christened vestiments consecrated</l>
+               <l>Chalices anointed high altates wasshed and halowed</l>
+               <l>Images tabernacled, dead mens bones shryned</l>
+               <l>Coniured Crosses censed, spittled and spattled</l>
+               <l>With turne and halfeturne the people was deceyued</l>
+               <l>Seist we or seist me not, and moche more abhominacion</l>
+               <l>Feattes of legerdemayne, by these ingglers inuented</l>
+               <l>That goddes worde shulde not florysshe, the lyght of oure saluacion.</l>
+            </lg>
+            <lg>
+               <l>Vpon the high holy euennes as they do them cal</l>
+               <l>They range al the belles a solempne noys to heare</l>
+               <l>There had we euensong complyne, &amp; salue with all</l>
+               <pb facs="tcp:10557:3"/>
+               <l>Of y<seg rend="sup">t</seg> was song or sayd,<note place="margin">i. co<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> iiii.</note> themselues were neuer the nere</l>
+               <l>For it was in a foren tongeras it doth wel apere</l>
+               <l>Nother to thym nor vs,<note place="margin">Esa. xxix.</note> was there edification</l>
+               <l>For it was all lippe iabo, song they neuer so cleare</l>
+               <l>Syldome preache they christ, to be the light of our saluatiō</l>
+            </lg>
+            <lg>
+               <l>The nexte day folowyng we had masynes, with prime and howres holy</l>
+               <l>Many a deus in adiutorium, al in the latten tonge</l>
+               <l>Coniuring of holy water folowed then immediatly</l>
+               <l>Procession after ydolles, al the church yarde long</l>
+               <l>Hygh masse with deuout sensinges, ruffling it in priksong</l>
+               <l>Then ranne we to take holy bread without signification</l>
+               <l>These plantes be pluct vp,<note place="margin">Mat. xv.</note> be they neuer so stronge</l>
+               <l>They were not graffed on goddes worde, the light of our saluation.</l>
+            </lg>
+            <lg>
+               <l>With these old customes &amp; such lyke god is displeased sore</l>
+               <l>As in the first of Esay ther is demaunded playne</l>
+               <l>Who required these of you suche thinges I do abhor</l>
+               <l>Your Sabothes and your solempne days your fastinges are in vayne</l>
+               <l>Newe holydayes &amp; fastinges from my hart I do disdayne</l>
+               <l>God saith he is wery both of you and your oblacion</l>
+               <l>He byddeth you labour in his vyne yarde,<note place="margin">Esai. i.</note> and therin take payne</l>
+               <l>To teach the people Gods word the light of our saluacion</l>
+            </lg>
+            <lg>
+               <l>Sone it is sene what paynes in this veneyarde they dyd take</l>
+               <l>For euery quicke sprynge that brought forthe the frute of Gods verite</l>
+               <l>They cryed out on him heretike burne him at a stake</l>
+               <l>He speaketh againste oure Ceremosyes and therfore shall he dye</l>
+               <pb facs="tcp:10557:4"/>
+               <l>Throwe such wretches in prison / and let the caytyles lye</l>
+               <l>And yf they be not willinge, to make their recantation</l>
+               <l>
+                  <note place="margin">Papistes make tradi<g ref="char:EOLunhyphen"/>cions the lyght of their salua<g ref="char:EOLunhyphen"/>cion</note>Famysh them for <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e, or murther them pryuely</l>
+               <l>They speake agaynste tradycions the lyght of our salua<g ref="char:EOLhyphen"/>cion.</l>
+            </lg>
+            <lg>
+               <l>Than scourged they the simple soules, with their whyp of correction</l>
+               <l>And there on hanged .vi. strynges, surely fastened with a lawe</l>
+               <l>This whyp was very mere, for ther pestilent complection</l>
+               <l>For thorow such tyranny, the peoples hartes wer rawe</l>
+               <l>Thus many faythful membres frome the truth dyd drawe</l>
+               <l>
+                  <note place="margin">Psa. Cxxiii</note>Vntyl, our noble kynge of his mercy and compassion</l>
+               <l>Brake this cruell whyp that kept the people in awe</l>
+               <l>And hath aduaunced Goddes worde the lyght of our sal<g ref="char:EOLhyphen"/>uacion.</l>
+            </lg>
+            <lg>
+               <l>Bewayle doth our Balamytes, disclosynge their owne nature</l>
+               <l>Euen as vnshamefaste shauelynges thret<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ninge Christes pore shepe</l>
+               <l>Saynge yf the sworde were on our sydes, be ye sure</l>
+               <l>As it hath bene before than wolde ye not ones pepe</l>
+               <l>But now that ye thinke al good ordre is layde downe to slepe</l>
+               <l>Ye make a braggynge and a boasting of your exaltation</l>
+               <l>Now who but ye gospellers that Christes flocke dothe keape</l>
+               <l>Ye teache the people gods worde the lyght of our saluatiō</l>
+            </lg>
+            <lg>
+               <l>Thus was their handes defyled with bloud / their fingers with vnrightuousenes</l>
+               <l>Deuouringe vp the gospellers in euery towne and city</l>
+               <l>From their lippes proceded lyes, their tongues aduaunced
+<pb facs="tcp:10557:4"/> wyckednesse</l>
+               <l>Without respecte to the trewth they iudge nothing treulye</l>
+               <l>They hatched Coccatrice egges / as we haue sene it plainli</l>
+               <l>And weaued spyders webbes by their cruel consultation.<note place="margin">Esa. lviii</note>
+               </l>
+               <l>Now he that eateth of their egges shal not escape but dye</l>
+               <l>Or be an ennemy to the truthe the light of our saluacion.</l>
+            </lg>
+            <lg>
+               <l>The chiefest thinge they set by is almost fallen awaye</l>
+               <l>I meane their masking Masse by so mani Popes deuysed</l>
+               <l>For thorow it the Lordes supper hath bene in great decay</l>
+               <l>And the ryght institution blasphemously blemysshed</l>
+               <l>Thus in the Popysh church it hath bene long abused</l>
+               <l>But now verite wil haue the matter, in examinacion</l>
+               <l>He sayth playnly suche abusion shal no more be vsed</l>
+               <l>It shal be tryed by Gods worde, the light of our saluacion</l>
+            </lg>
+            <lg>
+               <l>This Masse as they supposed was alone sufficient</l>
+               <l>To pacify Goddes wrath, for our wretched mysery</l>
+               <l>Fre forgyuenes of synnes, beinge neuer so vnpenitent</l>
+               <l>Myght be receyued at the Masse this was their doctrine dayely</l>
+               <l>No <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nale tyme were we blynded, with suche Popysshe peltry</l>
+               <l>Making vs to paye, fore the holy consecration</l>
+               <l>Lyke theues that were vnsacrat, they robbed so <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Without the feare of Goddes wor<gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>uacion</l>
+            </lg>
+            <lg>
+               <l>Christ held not the bread ouer his head, it is not in the Scripture.<note place="margin">Mat. x<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</note>
+               </l>
+               <l>But brake it and deuyded it, to his Apocstls al</l>
+               <l>Christ bad them not knele to it of this ye may be sure</l>
+               <l>yf ye do searche the Scriptures fynde it so ye shal</l>
+               <l>Christ willed them to reserue it in the memorial</l>
+               <l>That his body for our synnes,<note place="margin">i. Cor. xi.</note> suffred payne and passyon</l>
+               <pb facs="tcp:10557:5"/>
+               <l>To pacify the fathers wrath, when we in synne do fall</l>
+               <l>
+                  <note place="margin">He. vii.x.</note>Thus was he offred ones for al the light of our saluacion</l>
+            </lg>
+            <lg>
+               <l>Marke how blyndly we were fed, w<seg rend="sup">t</seg> out popysh gētylmen</l>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>vi</note>Marke how w<seg rend="sup">t</seg> false doctrine, they haue bleared our eyes.</l>
+               <l>Marke how craftely we were fedde w<seg rend="sup">t</seg> Phariseys leauen</l>
+               <l>Marke also how they repyne, y<seg rend="sup">e</seg> goddes worde sholde aryse</l>
+               <l>Marke what deuylish doctrine these dreamers dyd deuise</l>
+               <l>
+                  <note place="margin">ii. Ti. iiii.</note>Marke how cruel they haue bene, to Christes cōgregation</l>
+               <l>Marke how moch they haue maynteyned, phantasyes and lyes</l>
+               <l>Nothing regarding gods word, the lyght of our saluation</l>
+            </lg>
+            <lg>
+               <l>Of longe tyme haue they caused vs, cōmyt abhominatiō</l>
+               <l>
+                  <note place="margin">Ac vii. xvii</note>Robbyng god of the honor, which to hym is dewe,</l>
+               <l>By muenting false gods of their Imagination</l>
+               <l>Makyng therof a sacrifice, and yf they proue this trewe</l>
+               <l>They must confesse thei crucify gods sonne againe a newe</l>
+               <l>For yf their bread be Christe, by transubstanciation</l>
+               <l>Than offre they in sacrifice, this must nedes insewe</l>
+               <l>God and man fleshe and bloude, the lyght of our saluacion</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Mar. xvi. Actes. vii. Heb. x.</note>Doth not scripture say, into heauen Christ ascended</l>
+               <l>And dwellyng not in temples made with mannes hande</l>
+               <l>But sat him downe for euer / vntyl the worlde be ended</l>
+               <l>Makinge intercession, both for fre and <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onde</l>
+               <l>That vnto his godly promyse faythfully do stonde</l>
+               <l>This shoulde be to the Idolatres an honest reformation</l>
+               <l>To driue them from Idolatry for feare they be fonde</l>
+               <l>Enemy<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s vnto gods worde the lyght of our saluacion</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Iohn .vi.</note>Christ is the bread of lyfe which descended from y<seg rend="sup">e</seg> deite</l>
+               <l>
+                  <note place="margin">Ihon viii.</note>Yf any eate of that bread he shal lyue euermore</l>
+               <l>
+                  <note place="margin">Matt. i.</note>Christ alone the sonne of God maketh vs free</l>
+               <l>And from al our synnes clearely doth vs restore</l>
+               <pb facs="tcp:10557:5"/>
+               <l>Chryst for al penytent hartes, hath sayd vp mercy in <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore</l>
+               <l>Christe dyed for our synnes,<note place="margin">Rom. iiii.</note> and rose for our iustification</l>
+               <l>We bele to fynde hym a mercyful fauiour</l>
+               <l>For god hath chosen hym to be the lyght of our saluation</l>
+            </lg>
+            <lg>
+               <l>Now seing we haue Christe, to be our onely aduocate</l>
+               <l>In whome God the father,<note place="margin">Mat. iii.</note> hath a speciall delight</l>
+               <l>Let vs heare him, for he alone doth inuocate</l>
+               <l>And of our synnes cleane forgyuenes,<note place="margin">ii. Pet. i</note> we haue in Goddes syght</l>
+               <l>What nede we than to seke helpe, at any other wyght</l>
+               <l>But euen onely in the merites,<note place="margin">Eph. i.</note> of Iesu Christes passion</l>
+               <l>Bewayling our great mysery desyring daye and night</l>
+               <l>To fynde hym a mercyfull God,<note place="margin">Heb. i</note> the light of our saluacion</l>
+            </lg>
+            <lg>
+               <l>All we haue offended and haue nede of Goddes glory</l>
+               <l>No man is founde righteous and pure in his presence</l>
+               <l>Yet thorow his sonne Christ,<note place="margin">Rom. iii.</note> we be forgyuen frely</l>
+               <l>For he hath made a sacrifice for our synnes and offence</l>
+               <l>He is our reconciler, peace maker,<note place="margin">Heb. vii.</note> and defence</l>
+               <l>He it is that shed his bloud, onely for our redemption</l>
+               <l>And wold haue al men saued this is his pretence</l>
+               <l>Thus are we cleansed by Christ, the light of our saluacion</l>
+            </lg>
+            <lg>
+               <l>No smal cause haue we to reioyce, yf we do consyder</l>
+               <l>How our mercyfull God, hath for his flocke prouyded</l>
+               <l>Replenyshinge vs with meat, that endureth for euer</l>
+               <l>I meane his eternall word,<note place="margin">Iohn. v<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> frome which we were deuided</l>
+               <l>By waye of persecution, abhorred and deryded</l>
+               <l>But thankes be to the lyuinge God, whiche for our conso<g ref="char:EOLhyphen"/>lacion</l>
+               <l>Hath ouer throwen the ennemyes that thus enterprysed</l>
+               <l>To persecute the Gospell, the light of our saluacion.<note place="margin">Act. i<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </l>
+            </lg>
+            <lg>
+               <l>And where we lyued in feare,<note place="margin">Ma. xx<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> to confesse the virite</l>
+               <pb facs="tcp:10557:6"/>
+               <l>
+                  <note place="margin">Psa. c.xxiii.</note>
+                  <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>es vnpro<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Now is that yoocke broken, and we set at libertie</l>
+               <l>Plenteously to publyshe the truth without fable</l>
+               <l>Let vs therfore beware, we be not founde variable</l>
+               <l>
+                  <note place="margin">Lucke. ix.</note>But laye a sure holde to the ploughe, with harte and cogi<g ref="char:EOLhyphen"/>tation</l>
+               <l>
+                  <note place="margin">i. Cor. xv.</note>Continuinge vnto the ende, stronge stedfaste and stable</l>
+               <l>In no wyse to renounce the truthe the lyghte of our salua<g ref="char:EOLhyphen"/>cion.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Apo. xvii.</note>Forsake the whore of Babylon and the marke of the beast</l>
+               <l>
+                  <note place="margin">Apo. xviii.</note>Forsake her marchantes all, for they be most pestelent</l>
+               <l>Forsake the wares that she solde, frome the most to the least</l>
+               <l>Forsake her holynes, that she estemed excellent</l>
+               <l>
+                  <note place="margin">Apo. xvii</note>Forsake the deuelysh doctrine, that she dyd inuent</l>
+               <l>Forsake and fle vtterly, from her abhominacion</l>
+               <l>
+                  <note place="margin">Apo. xviii.</note>For Kynges and Princes were disceyued, that to her dyd consent</l>
+               <l>Persecuting Gods worde, the light of our saluacion.</l>
+            </lg>
+            <lg>
+               <l>Let vs forsake all ceremonies, that to Scripture be not consonaunt</l>
+               <l>Tradicions of forefathers wherin we haue ben lead</l>
+               <l>
+                  <note place="margin">Psal. cv.</note>And with the lyuely worde of God, let vs now be conuer<g ref="char:EOLhyphen"/>saunt</l>
+               <l>For therin shall we se with what baggage we were fead</l>
+               <l>Wandering in the Popes lawes forsakinge Christe oure head</l>
+               <l>
+                  <note place="margin">ii. Pe. ii.</note>Heapinge vpon our selues the more greatter damnacion</l>
+               <l>Thus were Tradicions and Ceremonies, maintayned in the stede</l>
+               <l>Of Gods true and syncere worde, the light of our saluaciō</l>
+               <pb facs="tcp:10557:6"/>
+               <l>Let vs earnestly therfore desire w<seg rend="sup">t</seg> an harte vnfayned</l>
+               <l>That in all thinge we do,<note place="margin">Ti<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> God may haue the glory</l>
+               <l>Yea / and imbrace this heauenly worde, which we haue re<g ref="char:EOLhyphen"/>ceyued</l>
+               <l>Not in talke, nor to receyue it as a carnall liberty</l>
+               <l>But to bringe forth the frute of the spirit, so that therby</l>
+               <l>It maye apeare manifest, in our Godly conuersacion</l>
+               <l>To be a light vnto the worlde, forsaking al iniquite</l>
+               <l>And to perseuer in the truth the light of our saluacion.</l>
+            </lg>
+            <lg>
+               <l>And doubte not al that the heauenly father hathe not planted</l>
+               <l>He will plucke vp by the rotes,<note place="margin">Mat. xv.</note> they shall no more endure</l>
+               <l>This in his eternall worde he hath it promysed</l>
+               <l>Therfore be not vnfaythfull for his couenaunt is ful sure</l>
+               <l>Heauen and earth shall perysh,<note place="margin">Luk. xvi.</note> this is without recure</l>
+               <l>But his worde shal neuer passe, by no determination</l>
+               <l>Vntyl al thinge be ended therfore I you allure</l>
+               <l>To trust wholy in his worde, the light of our saluacion</l>
+            </lg>
+            <lg>
+               <l>Honger and thurst for righteousnesse,<note place="margin">Mat. v</note> than shal ye be satisfyed</l>
+               <l>Mortify the flesh, with the dedes therof also</l>
+               <l>Let no fylthye communicaon oute of your mouthes procede</l>
+               <l>But as it becometh sayntes,<note place="margin">Ephe. iiii.</note> euen so loke ye do</l>
+               <l>Blessed be he to whom synne is not imputed to</l>
+               <l>Neither in his spirite is there founde dissimulacion</l>
+               <l>Suche shall inioye the heauenly ioyes,<note place="margin">Psal. xxx<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> knowinge no kynd of woo</l>
+               <l>But haue the fruicion of Goddes sight, the lyghte of oure saluacion</l>
+            </lg>
+            <lg>
+               <l>And aboue all thinge to imbrace / Gods eternall viritie</l>
+               <pb facs="tcp:10557:7"/>
+               <l>which vnto a Christen man, there as nothing so acceptable</l>
+               <l>For as moche as in it, is contayned syncerely</l>
+               <l>The dewtie of al persons, a doctrine most profytable</l>
+               <l>And in especiall to this we must be agreable</l>
+               <l>To loue God aboue al thinge this is the chief foundacion</l>
+               <l>And oure neyghbours as our selfe, thus shal we withoute fable</l>
+               <l>Receyue at the hande of God, the lyght of our saluacion.</l>
+               <l>Let vs be thankeful to our God for his etern verite</l>
+               <l>With which he hath most plenteously endewed our noble Kynge</l>
+               <l>So that amonge al his affaires, he maye setforthe goddes glorye</l>
+               <l>With no lesse zeale than he hath done sence his firste begin<g ref="char:EOLunhyphen"/>ninge</l>
+               <l>I meane, Edward the sixt, ouer vs now rayninge</l>
+               <l>Right Inheritour by dissent of this reame or dominion</l>
+               <l>That oute of his Princely harte / there maye dystyll and springe</l>
+               <l>Gods power and lyuely worde the lyght of our saluacion.</l>
+            </lg>
+            <lg>
+               <l>Also for those good ladyes, of the same stock and linage</l>
+               <l>Mary and Elyzabeth, systers vnto his grace</l>
+               <l>The heauenly Lorde endewe them / vnto their last age</l>
+               <l>Euen as their noble father dyd all Popery to deface</l>
+               <l>And Gods eternall Testament / alway to embrace</l>
+               <l>For there in shal they learne, by the heauenly instigation</l>
+               <l>To folow the frute of the spirite, and thereby to purchace</l>
+               <l>The Celestiall kyndome, the lyght of our saluacion.</l>
+            </lg>
+            <lg>
+               <l>For the moste honorable Councell, with my Lorde Pro<g ref="char:EOLunhyphen"/>tector</l>
+               <l>Which stryueth strongely with the enemyes of God night and daye</l>
+               <pb facs="tcp:10557:7"/>
+               <l>In his procedynges and doynges / the Lorde be his di<g ref="char:EOLhyphen"/>rector</l>
+               <l>With his holy spirite also / to rule their hartes alwaye</l>
+               <l>That thorowe their spirituall laboure al Poperye maye decaye</l>
+               <l>And vtterly banysshed the lande, with Godly reformacion</l>
+               <l>Suppressing all false doctrine and to set suche a staye</l>
+               <l>That Goddes worde maye increace / the lyght of our sal<g ref="char:EOLhyphen"/>uacion.</l>
+            </lg>
+            <lg>
+               <l>And that it may please the (O God) to illumine y<seg rend="sup">e</seg> spiritu<g ref="char:EOLunhyphen"/>altie</l>
+               <l>As Bysshoppes and al ministers, with knowledge and vn<g ref="char:EOLunhyphen"/>derstandinge</l>
+               <l>Of they most blessed worde to set it forth with synceritie</l>
+               <l>And vnfaynedly folowe; both in doctrine and lyuing</l>
+               <l>Fedinge Christes flocke with the worde euerlastinge</l>
+               <l>Not compelled ther vnto nor for hope of promocion</l>
+               <l>But for fauor whiche they beare to it aboue al thinge</l>
+               <l>And thus shall Goddes worde florysshe the lyght of oure saluacion.<note place="margin">i. Pet. v.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Let Christ be preached the sauyour, where in we maye trust</l>
+               <l>Rebuke euery synne,<note place="margin">i. Ti. iiii</note> beware of Deuelysh Doctrine</l>
+               <l>Double tongued men / in no wyse be they must</l>
+               <l>Not gyuen to fylthy lucre / nor <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o moche wy<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>But hauynge the mysterye of Faythe / in conscyence pure and cleane</l>
+               <l>And or they presume to minister in the congregacion</l>
+               <l>They ought to be well proued this doth saynte Paule de<g ref="char:EOLhyphen"/>termyne</l>
+               <l>And then to fede vs with the truthe the lyghte of our salua<g ref="char:EOLunhyphen"/>uacion.<note place="margin">.i. Tim. iii.</note>
+               </l>
+               <pb facs="tcp:10557:8"/>
+               <l>And euen as it is ther dewtie to rebuke synne</l>
+               <l>So is it our partes also to seace frome synne alwaye</l>
+               <l>
+                  <note place="margin">Eze. xxxiii.</note>Consyderinge Sathan was the fyrste that dyd it begyne</l>
+               <l>Therfore he they our watche men as Ezechiel doth saye</l>
+               <l>Now yf we haue a warning and will fully decaye</l>
+               <l>Oure owne bloude vpon oure headdes this is withoute negacion</l>
+               <l>Rede the texte and more playnly se it there ye maye</l>
+               <l>Thus God wolde haue al men saued the light of our salua<g ref="char:EOLunhyphen"/>cion.</l>
+               <l>And for vs pore communs also the Lorde be our ouer fear</l>
+               <l>That aboue al we may desyre peace and quiet rest</l>
+               <l>Both of soule and body for that do we require</l>
+               <l>So shal we prosper in al goodnes and god pleased best</l>
+               <l>And at the last to be with Christ this is our request</l>
+               <l>Which is the head of the faithful and Christian congrega<g ref="char:EOLhyphen"/>tion</l>
+               <l>Receyuing there a kyngdome euer to haue rest</l>
+               <l>In ioye and blysse without ende there to haue our saluaciō</l>
+            </lg>
+            <closer>AMEN.</closer>
+         </div>
+         <div type="epigraphs">
+            <q>
+               <bibl>Iames .i.</bibl>
+               <p>Euery good gyft, and euerye perfyt gyfte is frome aboue and commethe downe frome the father of light.</p>
+            </q>
+            <q>
+               <bibl>Prouerb .ii.</bibl>
+               <p>For it is the Lorde that gyueth wysdome out of his mouthe commeth knowledge and vnderstandinge.</p>
+            </q>
+            <q>
+               <pb facs="tcp:10557:8"/>
+               <bibl>Psalm .cxv.</bibl>
+               <p>Not vnto vs, O Lorde, not vnto vs but vnto thy name gyue the prayse.</p>
+            </q>
+            <q>
+               <bibl>Timothe .i.</bibl>
+               <p>To god onely, gyue the glory.</p>
+            </q>
+            <p>Quod, Peter Moo<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>.</p>
+         </div>
+         <div type="colophon">
+            <p>Imprinted at London by Wyll<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>am Copland.</p>
+         </div>
+         <div type="license">
+            <p>¶Com priuilegio ad imprimendum solum</p>
+         </div>
+      </body>
+   </text>
+</TEI>
